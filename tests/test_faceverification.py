@@ -1,5 +1,5 @@
 from unittest import TestCase
-from faceverification import recognition as rc
+from face_verification import recognition as rc
 import torch
 import numpy as np
 from PIL import Image
