@@ -4,7 +4,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = python -msphinx
-SPHINXPROJ    = faceverification
+SPHINXPROJ    = face_verification
 SOURCEDIR     = .
 BUILDDIR      = _build
 
