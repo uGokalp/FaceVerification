@@ -107,3 +107,6 @@ ENV/
 # Model data
 /pretrained/
 /examples/pretrained/
+
+# Spider
+/_build/

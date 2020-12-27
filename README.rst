@@ -6,7 +6,7 @@ FaceVerification
 .. image:: https://img.shields.io/pypi/v/faceverification.svg
         :target: https://pypi.python.org/pypi/faceverification
 
-.. image:: https://img.shields.io/travis/uGokalp/faceverification.svg
+.. image:: https://travis-ci.com/uGokalp/FaceVerification.svg?branch=master
         :target: https://travis-ci.com/uGokalp/faceverification
 
 .. image:: https://readthedocs.org/projects/faceverification/badge/?version=latest
