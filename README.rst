@@ -14,7 +14,7 @@ FaceVerification
         :alt: Documentation Status
 
 
-.. image:: https://pyup.io/repos/github/uGokalp/faceverification/shield.svg
+.. image:: https://pyup.io/repos/github/uGokalp/FaceVerification/shield.svg
      :target: https://pyup.io/repos/github/uGokalp/FaceVerification/
      :alt: Updates
 
