@@ -15,7 +15,7 @@ FaceVerification
 
 
 .. image:: https://pyup.io/repos/github/uGokalp/faceverification/shield.svg
-     :target: https://pyup.io/repos/github/uGokalp/faceverification/
+     :target: https://pyup.io/repos/github/uGokalp/FaceVerification/
      :alt: Updates
 
 
