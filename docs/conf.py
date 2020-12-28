@@ -21,11 +21,9 @@ import os
 import sys
 
 sys.path.insert(0, os.path.abspath(".."))
-sys.path.insert(0, os.path.abspath("../face_verification"))
-sys.path.insert(0, os.path.abspath("../face_verification/db"))
-sys.path.insert(0, os.path.abspath("../face_verification/recognition"))
 
-import face_verification
+
+import face_verification.recognition
 
 # -- General configuration ---------------------------------------------
 
@@ -37,10 +35,19 @@ import face_verification
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = [
     "sphinx.ext.autodoc",
+    "sphinx.ext.napoleon",
+    "sphinx.ext.coverage",
     "sphinx.ext.viewcode",
     "sphinx.ext.autosummary",
-    "sphinx.ext.napoleon",
 ]
+
+# extensions = [
+#     "sphinx.ext.autodoc",
+#     "sphinx.ext.viewcode",
+#     "sphinx.ext.autosummary",
+#     "sphinx.ext.napoleon",
+#     "sphinx.ext.coverage",
+# ]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
