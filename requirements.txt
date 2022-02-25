@@ -9,7 +9,7 @@ Sphinx==3.4.1
 twine==3.3.0
 
 pytest==4.6.5
-pytest-runner==5.1
+pytest-runner==6.0.0
 
 
 torch==1.5.1
